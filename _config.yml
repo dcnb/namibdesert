@@ -77,4 +77,4 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 sass:
   style: compressed
 
-theme: jekyll-theme-midnight
+
